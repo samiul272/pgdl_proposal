@@ -1,0 +1,9 @@
+
+Dpython:S1481c",Remove the unused local variable "estimate".(æÜ
+Kpython:S1481T"3Remove the unused local variable "target_accuracy".( Ğšü
+<python:S1481["%Remove the unused local variable "j".(½­ª"
+Bpython:S1481X"%Remove the unused local variable "k".(ĞÖ”ıÿÿÿÿ
+=python:S1481U"%Remove the unused local variable "i".(¤›öÌ
+lpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(¸ªä
+Epython:S5603<"(Remove this unused function declaration.(ÿ¯ÌŠşÿÿÿÿ
+=python:S1481E"%Remove the unused local variable "i".(½†ºÖ
