@@ -7,6 +7,8 @@ Prerequisites:
 - pyyaml
 - scikit-learn
 
+***Main code for my proposed algorithm can be viewed in baselines/proposed_complexity***
+
 Usage:
 
 (1) If you are a challenge participant:
@@ -31,6 +33,3 @@ Usage:
 
 The `baselines` directory contains a number of baselines that you may use as your starting points. If you are not familiar with the
 Keras framework, these baselines should get you up to speed.
-
-
-***Main code for proposed algorithm can be found in baselines/proposed_complexity
