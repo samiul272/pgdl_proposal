@@ -1,4 +1,4 @@
-This is a sample starting kit for Predicting Generalization in Deep Learning challenge at NeurIPS 2020.
+This is a developed from starting kit for Predicting Generalization in Deep Learning challenge at NeurIPS 2020.
 
 Prerequisites:
 - Python 3.6.6
@@ -31,3 +31,6 @@ Usage:
 
 The `baselines` directory contains a number of baselines that you may use as your starting points. If you are not familiar with the
 Keras framework, these baselines should get you up to speed.
+
+
+***Main code for proposed algorithm can be found in baselines/proposed_complexity
